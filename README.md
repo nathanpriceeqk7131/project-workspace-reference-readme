@@ -1,15 +1,7 @@
-# Project Workspace Reference Readme
+# Blox Fruits Autofarm Script
 
-Project documentation and reference notes for this repository.
+A Roblox script for automating Blox Fruits farming.
 
-## Overview
+Features include autofarm quests, boss farming, auto stats, and executor support.
 
-This repository contains setup notes, release references, and configuration details.
-
-## Usage
-
-Review the project files and documentation for setup information.
-
-## License
-
-See [LICENSE](LICENSE).
+Load via your preferred Roblox executor.
